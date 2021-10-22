@@ -1,2 +1,4 @@
 rootProject.name = "ParentApp2"
 include ':app'
+include ':submodule1'
+
